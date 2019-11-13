@@ -1,5 +1,0 @@
-
-
-function bestelling(){
-		var 
-}

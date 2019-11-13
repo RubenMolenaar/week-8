@@ -1,0 +1,22 @@
+body {
+	background-image: url("img/background.jpeg");
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	margin: 0 auto;
+	padding: 0 auto;
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	text-align: center;
+}
+
+.main {
+	font-size: 18px;
+	background-color: #1D1B1B;
+	position: relative;
+	margin-top: 40px;
+	margin-left: 250px; 
+	margin-right: 250px;
+	border:1px solid #F4A950;
+	padding: 20px 60px 2% 60px;
+}
